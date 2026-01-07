@@ -1,7 +1,7 @@
 
 # Illinois Data Science Club Spring 2025 Winning Team Bytes and Bikes Repo
 
-Clustering Cyclist Project
+A Clustering Cyclist Project
 
 golden_cheetah is code for creating dataframe
 
